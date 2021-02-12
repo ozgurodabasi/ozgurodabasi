@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm a software engineer based in Istanbul, Turkey.
+
+![Özgür's github stats](https://github-readme-stats.vercel.app/api?username=ozgurodabasi&theme=hotham&show_icons=true&count_private=true)
+
 <!--
 **ozgurodabasi/ozgurodabasi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
